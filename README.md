@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamamoheb&label=Profile%20views&color=0e75b6&style=flat" alt="osamamoheb" /> </p>
 
-- 🌱 I’m currently learning **backend .net**
-
 - 📫 How to reach me **osamamoheb11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
